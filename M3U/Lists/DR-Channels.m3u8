@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="Undefined",Telemicro 5,Telemicro Canal 5
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0005&mode=12&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="http://www.luperondigital.com/wp-content/uploads/2017/01/digital-15-vivo-Canales-Dominicanos.jpg" group-title="Undefined",Digital 15
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12&checkedby:iptvcat.com
+
+
